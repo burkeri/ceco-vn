@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ceco-vn/static/css/main.ca441fe8.chunk.css",
-    "main.js": "/ceco-vn/static/js/main.59133d5b.chunk.js",
-    "main.js.map": "/ceco-vn/static/js/main.59133d5b.chunk.js.map",
+    "main.js": "/ceco-vn/static/js/main.0877e0b6.chunk.js",
+    "main.js.map": "/ceco-vn/static/js/main.0877e0b6.chunk.js.map",
     "runtime-main.js": "/ceco-vn/static/js/runtime-main.ce6ab62f.js",
     "runtime-main.js.map": "/ceco-vn/static/js/runtime-main.ce6ab62f.js.map",
-    "static/js/2.36d54cbc.chunk.js": "/ceco-vn/static/js/2.36d54cbc.chunk.js",
-    "static/js/2.36d54cbc.chunk.js.map": "/ceco-vn/static/js/2.36d54cbc.chunk.js.map",
+    "static/js/2.5bee3f21.chunk.js": "/ceco-vn/static/js/2.5bee3f21.chunk.js",
+    "static/js/2.5bee3f21.chunk.js.map": "/ceco-vn/static/js/2.5bee3f21.chunk.js.map",
     "static/js/3.b5682d1b.chunk.js": "/ceco-vn/static/js/3.b5682d1b.chunk.js",
     "static/js/3.b5682d1b.chunk.js.map": "/ceco-vn/static/js/3.b5682d1b.chunk.js.map",
     "index.html": "/ceco-vn/index.html",
     "static/css/main.ca441fe8.chunk.css.map": "/ceco-vn/static/css/main.ca441fe8.chunk.css.map",
-    "static/js/2.36d54cbc.chunk.js.LICENSE.txt": "/ceco-vn/static/js/2.36d54cbc.chunk.js.LICENSE.txt"
+    "static/js/2.5bee3f21.chunk.js.LICENSE.txt": "/ceco-vn/static/js/2.5bee3f21.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ce6ab62f.js",
-    "static/js/2.36d54cbc.chunk.js",
+    "static/js/2.5bee3f21.chunk.js",
     "static/css/main.ca441fe8.chunk.css",
-    "static/js/main.59133d5b.chunk.js"
+    "static/js/main.0877e0b6.chunk.js"
   ]
 }
