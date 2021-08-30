@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ceco-vn/static/css/main.54263192.chunk.css",
-    "main.js": "/ceco-vn/static/js/main.a2b502dc.chunk.js",
-    "main.js.map": "/ceco-vn/static/js/main.a2b502dc.chunk.js.map",
+    "main.js": "/ceco-vn/static/js/main.4b87688e.chunk.js",
+    "main.js.map": "/ceco-vn/static/js/main.4b87688e.chunk.js.map",
     "runtime-main.js": "/ceco-vn/static/js/runtime-main.ce6ab62f.js",
     "runtime-main.js.map": "/ceco-vn/static/js/runtime-main.ce6ab62f.js.map",
     "static/js/2.ac0a2aa7.chunk.js": "/ceco-vn/static/js/2.ac0a2aa7.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ce6ab62f.js",
     "static/js/2.ac0a2aa7.chunk.js",
     "static/css/main.54263192.chunk.css",
-    "static/js/main.a2b502dc.chunk.js"
+    "static/js/main.4b87688e.chunk.js"
   ]
 }
